@@ -1,0 +1,47 @@
+
+.navbar {
+    background-color: rgb(156, 30, 219);
+}
+
+.navbar a {
+    color: white !important;
+}
+
+.hero {
+    background-image: url('images/HEADER.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.product-card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.btn-black {
+    background-color: rgb(156, 30, 219);
+    color: white;
+}
+
+.btn-black:hover {
+    background-color: #333;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+}
+
+.footer a {
+    color: white !important;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
